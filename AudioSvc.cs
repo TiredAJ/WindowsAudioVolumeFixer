@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace WindowsAudioVolumeFixer
 {
     //look at https://stackoverflow.com/questions/14306048/controlling-volume-mixer for mixer volume access
+    //also https://superuser.com/a/954969 for startup shenanigans
 
     public sealed class AudioSVC
     {
